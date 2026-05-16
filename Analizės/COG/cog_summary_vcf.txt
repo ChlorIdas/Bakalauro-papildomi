@@ -1,0 +1,397 @@
+--- Analysis per File ---
+
+--- Analysis for: Amoxicillin_Clavulanate_for_pyseer_vcf_pyseer_results.mapped.tsv ---
+
+  Total COG entries found: 818
+  Rows skipped (COG_category empty/NA/unparseable): 0
+  --- By Individual COG Letter ---
+    - Category 'N': 96 (11.74%)
+    - Category 'S': 93 (11.37%)
+    - Category 'U': 63 (7.70%)
+    - Category 'P': 63 (7.70%)
+    - Category 'E': 55 (6.72%)
+    - Category 'K': 54 (6.60%)
+    - Category 'M': 53 (6.48%)
+    - Category 'T': 52 (6.36%)
+    - Category 'A': 40 (4.89%)
+    - Category 'C': 32 (3.91%)
+    - Category 'o': 31 (3.79%)
+    - Category 'n': 31 (3.79%)
+    - Category 'e': 31 (3.79%)
+    - Category 'O': 24 (2.93%)
+    - Category 'Q': 17 (2.08%)
+    - Category 'G': 15 (1.83%)
+    - Category 'L': 15 (1.83%)
+    - Category 'J': 13 (1.59%)
+    - Category 'H': 13 (1.59%)
+    - Category 'I': 11 (1.34%)
+    - Category 'F': 9 (1.10%)
+    - Category 'V': 6 (0.73%)
+    - Category 'D': 1 (0.12%)
+
+  --- By Functional Group ---
+    - Metabolism: 215 (26.28%)
+    - Poorly Characterized: 93 (11.37%)
+    - Cellular Processes & Signaling: 295 (36.06%)
+    - Information Storage & Processing: 122 (14.91%)
+    - Unknown: 93 (11.37%)
+
+--- Analysis for: Ceftazidime_for_pyseer_vcf_pyseer_results.mapped.tsv ---
+
+  Total COG entries found: 388
+  Rows skipped (COG_category empty/NA/unparseable): 0
+  --- By Individual COG Letter ---
+    - Category 'S': 56 (14.43%)
+    - Category 'N': 41 (10.57%)
+    - Category 'E': 31 (7.99%)
+    - Category 'C': 31 (7.99%)
+    - Category 'P': 24 (6.19%)
+    - Category 'K': 22 (5.67%)
+    - Category 'A': 21 (5.41%)
+    - Category 'U': 21 (5.41%)
+    - Category 'M': 18 (4.64%)
+    - Category 'T': 17 (4.38%)
+    - Category 'Q': 14 (3.61%)
+    - Category 'O': 13 (3.35%)
+    - Category 'o': 12 (3.09%)
+    - Category 'n': 12 (3.09%)
+    - Category 'e': 12 (3.09%)
+    - Category 'H': 9 (2.32%)
+    - Category 'I': 8 (2.06%)
+    - Category 'G': 7 (1.80%)
+    - Category 'L': 6 (1.55%)
+    - Category 'F': 4 (1.03%)
+    - Category 'J': 3 (0.77%)
+    - Category 'V': 3 (0.77%)
+    - Category 'D': 3 (0.77%)
+
+  --- By Functional Group ---
+    - Metabolism: 128 (32.99%)
+    - Poorly Characterized: 56 (14.43%)
+    - Cellular Processes & Signaling: 116 (29.90%)
+    - Information Storage & Processing: 52 (13.40%)
+    - Unknown: 36 (9.28%)
+
+--- Analysis for: Ciprofloxacin_for_pyseer_vcf_pyseer_results.mapped.tsv ---
+
+  Total COG entries found: 276
+  Rows skipped (COG_category empty/NA/unparseable): 0
+  --- By Individual COG Letter ---
+    - Category 'P': 32 (11.59%)
+    - Category 'K': 26 (9.42%)
+    - Category 'N': 26 (9.42%)
+    - Category 'S': 25 (9.06%)
+    - Category 'M': 22 (7.97%)
+    - Category 'T': 21 (7.61%)
+    - Category 'U': 18 (6.52%)
+    - Category 'E': 15 (5.43%)
+    - Category 'C': 15 (5.43%)
+    - Category 'Q': 12 (4.35%)
+    - Category 'A': 11 (3.99%)
+    - Category 'O': 11 (3.99%)
+    - Category 'I': 8 (2.90%)
+    - Category 'J': 5 (1.81%)
+    - Category 'o': 5 (1.81%)
+    - Category 'n': 5 (1.81%)
+    - Category 'e': 5 (1.81%)
+    - Category 'F': 5 (1.81%)
+    - Category 'H': 3 (1.09%)
+    - Category 'G': 3 (1.09%)
+    - Category 'L': 3 (1.09%)
+
+  --- By Functional Group ---
+    - Metabolism: 93 (33.70%)
+    - Poorly Characterized: 25 (9.06%)
+    - Cellular Processes & Signaling: 98 (35.51%)
+    - Information Storage & Processing: 45 (16.30%)
+    - Unknown: 15 (5.43%)
+
+--- Analysis for: Colistin_for_pyseer_vcf_pyseer_results.mapped.tsv ---
+
+  Total COG entries found: 862
+  Rows skipped (COG_category empty/NA/unparseable): 0
+  --- By Individual COG Letter ---
+    - Category 'N': 107 (12.41%)
+    - Category 'S': 91 (10.56%)
+    - Category 'E': 58 (6.73%)
+    - Category 'K': 56 (6.50%)
+    - Category 'T': 56 (6.50%)
+    - Category 'P': 54 (6.26%)
+    - Category 'U': 53 (6.15%)
+    - Category 'C': 49 (5.68%)
+    - Category 'M': 46 (5.34%)
+    - Category 'A': 43 (4.99%)
+    - Category 'o': 32 (3.71%)
+    - Category 'n': 32 (3.71%)
+    - Category 'e': 32 (3.71%)
+    - Category 'O': 32 (3.71%)
+    - Category 'Q': 22 (2.55%)
+    - Category 'I': 20 (2.32%)
+    - Category 'G': 17 (1.97%)
+    - Category 'L': 15 (1.74%)
+    - Category 'H': 12 (1.39%)
+    - Category 'V': 12 (1.39%)
+    - Category 'J': 11 (1.28%)
+    - Category 'F': 8 (0.93%)
+    - Category 'D': 4 (0.46%)
+
+  --- By Functional Group ---
+    - Metabolism: 240 (27.84%)
+    - Poorly Characterized: 91 (10.56%)
+    - Cellular Processes & Signaling: 310 (35.96%)
+    - Information Storage & Processing: 125 (14.50%)
+    - Unknown: 96 (11.14%)
+
+--- Analysis for: Imipenem_for_pyseer_vcf_pyseer_results.mapped.tsv ---
+
+  Total COG entries found: 1190
+  Rows skipped (COG_category empty/NA/unparseable): 0
+  --- By Individual COG Letter ---
+    - Category 'N': 154 (12.94%)
+    - Category 'S': 115 (9.66%)
+    - Category 'P': 92 (7.73%)
+    - Category 'U': 86 (7.23%)
+    - Category 'T': 84 (7.06%)
+    - Category 'K': 79 (6.64%)
+    - Category 'A': 74 (6.22%)
+    - Category 'E': 72 (6.05%)
+    - Category 'M': 61 (5.13%)
+    - Category 'o': 45 (3.78%)
+    - Category 'n': 45 (3.78%)
+    - Category 'e': 45 (3.78%)
+    - Category 'C': 43 (3.61%)
+    - Category 'O': 38 (3.19%)
+    - Category 'G': 34 (2.86%)
+    - Category 'J': 30 (2.52%)
+    - Category 'Q': 21 (1.76%)
+    - Category 'L': 20 (1.68%)
+    - Category 'H': 18 (1.51%)
+    - Category 'V': 13 (1.09%)
+    - Category 'I': 11 (0.92%)
+    - Category 'F': 7 (0.59%)
+    - Category 'D': 3 (0.25%)
+
+  --- By Functional Group ---
+    - Metabolism: 298 (25.04%)
+    - Poorly Characterized: 115 (9.66%)
+    - Cellular Processes & Signaling: 439 (36.89%)
+    - Information Storage & Processing: 203 (17.06%)
+    - Unknown: 135 (11.34%)
+
+--- Analysis for: Meropenem_for_pyseer_vcf_pyseer_results.mapped.tsv ---
+
+  Total COG entries found: 890
+  Rows skipped (COG_category empty/NA/unparseable): 0
+  --- By Individual COG Letter ---
+    - Category 'N': 101 (11.35%)
+    - Category 'S': 82 (9.21%)
+    - Category 'U': 76 (8.54%)
+    - Category 'P': 67 (7.53%)
+    - Category 'E': 67 (7.53%)
+    - Category 'T': 61 (6.85%)
+    - Category 'K': 59 (6.63%)
+    - Category 'M': 56 (6.29%)
+    - Category 'A': 39 (4.38%)
+    - Category 'C': 36 (4.04%)
+    - Category 'o': 31 (3.48%)
+    - Category 'n': 31 (3.48%)
+    - Category 'e': 31 (3.48%)
+    - Category 'O': 31 (3.48%)
+    - Category 'Q': 23 (2.58%)
+    - Category 'G': 19 (2.13%)
+    - Category 'L': 17 (1.91%)
+    - Category 'J': 16 (1.80%)
+    - Category 'I': 16 (1.80%)
+    - Category 'H': 12 (1.35%)
+    - Category 'V': 9 (1.01%)
+    - Category 'F': 7 (0.79%)
+    - Category 'D': 3 (0.34%)
+
+  --- By Functional Group ---
+    - Metabolism: 247 (27.75%)
+    - Poorly Characterized: 82 (9.21%)
+    - Cellular Processes & Signaling: 337 (37.87%)
+    - Information Storage & Processing: 131 (14.72%)
+    - Unknown: 93 (10.45%)
+
+--- Analysis for: Piperacillin_Tazobactam_for_pyseer_vcf_pyseer_results.mapped.tsv ---
+
+  Total COG entries found: 1898
+  Rows skipped (COG_category empty/NA/unparseable): 0
+  --- By Individual COG Letter ---
+    - Category 'N': 242 (12.75%)
+    - Category 'S': 191 (10.06%)
+    - Category 'U': 158 (8.32%)
+    - Category 'E': 141 (7.43%)
+    - Category 'P': 139 (7.32%)
+    - Category 'K': 135 (7.11%)
+    - Category 'T': 119 (6.27%)
+    - Category 'A': 110 (5.80%)
+    - Category 'M': 104 (5.48%)
+    - Category 'o': 64 (3.37%)
+    - Category 'n': 64 (3.37%)
+    - Category 'e': 64 (3.37%)
+    - Category 'C': 63 (3.32%)
+    - Category 'Q': 51 (2.69%)
+    - Category 'O': 48 (2.53%)
+    - Category 'G': 41 (2.16%)
+    - Category 'L': 40 (2.11%)
+    - Category 'J': 35 (1.84%)
+    - Category 'H': 29 (1.53%)
+    - Category 'I': 26 (1.37%)
+    - Category 'V': 16 (0.84%)
+    - Category 'F': 14 (0.74%)
+    - Category 'D': 4 (0.21%)
+
+  --- By Functional Group ---
+    - Metabolism: 504 (26.55%)
+    - Poorly Characterized: 191 (10.06%)
+    - Cellular Processes & Signaling: 691 (36.41%)
+    - Information Storage & Processing: 320 (16.86%)
+    - Unknown: 192 (10.12%)
+
+--- Analysis for: Sulfonamide_for_pyseer_vcf_pyseer_results.mapped.tsv ---
+
+  Total COG entries found: 1135
+  Rows skipped (COG_category empty/NA/unparseable): 0
+  --- By Individual COG Letter ---
+    - Category 'N': 131 (11.54%)
+    - Category 'P': 113 (9.96%)
+    - Category 'S': 100 (8.81%)
+    - Category 'U': 91 (8.02%)
+    - Category 'E': 82 (7.22%)
+    - Category 'K': 80 (7.05%)
+    - Category 'T': 72 (6.34%)
+    - Category 'M': 59 (5.20%)
+    - Category 'A': 57 (5.02%)
+    - Category 'C': 44 (3.88%)
+    - Category 'o': 41 (3.61%)
+    - Category 'n': 41 (3.61%)
+    - Category 'e': 41 (3.61%)
+    - Category 'O': 36 (3.17%)
+    - Category 'G': 27 (2.38%)
+    - Category 'Q': 25 (2.20%)
+    - Category 'J': 22 (1.94%)
+    - Category 'L': 22 (1.94%)
+    - Category 'H': 16 (1.41%)
+    - Category 'I': 12 (1.06%)
+    - Category 'V': 11 (0.97%)
+    - Category 'F': 9 (0.79%)
+    - Category 'D': 3 (0.26%)
+
+  --- By Functional Group ---
+    - Metabolism: 328 (28.90%)
+    - Poorly Characterized: 100 (8.81%)
+    - Cellular Processes & Signaling: 403 (35.51%)
+    - Information Storage & Processing: 181 (15.95%)
+    - Unknown: 123 (10.84%)
+
+--- Analysis for: Tigecycline_for_pyseer_vcf_pyseer_results.mapped.tsv ---
+
+  Total COG entries found: 351
+  Rows skipped (COG_category empty/NA/unparseable): 0
+  --- By Individual COG Letter ---
+    - Category 'S': 47 (13.39%)
+    - Category 'N': 41 (11.68%)
+    - Category 'U': 32 (9.12%)
+    - Category 'P': 25 (7.12%)
+    - Category 'T': 25 (7.12%)
+    - Category 'K': 23 (6.55%)
+    - Category 'E': 22 (6.27%)
+    - Category 'M': 21 (5.98%)
+    - Category 'C': 21 (5.98%)
+    - Category 'A': 15 (4.27%)
+    - Category 'o': 11 (3.13%)
+    - Category 'n': 11 (3.13%)
+    - Category 'e': 11 (3.13%)
+    - Category 'O': 9 (2.56%)
+    - Category 'Q': 8 (2.28%)
+    - Category 'H': 6 (1.71%)
+    - Category 'I': 5 (1.42%)
+    - Category 'J': 4 (1.14%)
+    - Category 'G': 4 (1.14%)
+    - Category 'F': 4 (1.14%)
+    - Category 'L': 3 (0.85%)
+    - Category 'D': 3 (0.85%)
+
+  --- By Functional Group ---
+    - Metabolism: 95 (27.07%)
+    - Poorly Characterized: 47 (13.39%)
+    - Cellular Processes & Signaling: 131 (37.32%)
+    - Information Storage & Processing: 45 (12.82%)
+    - Unknown: 33 (9.40%)
+
+--- Analysis for: Trimethoprim_sulfamethoxazole_for_pyseer_vcf_pyseer_results.mapped.tsv ---
+
+  Total COG entries found: 454
+  Rows skipped (COG_category empty/NA/unparseable): 0
+  --- By Individual COG Letter ---
+    - Category 'P': 74 (16.30%)
+    - Category 'N': 41 (9.03%)
+    - Category 'S': 39 (8.59%)
+    - Category 'E': 37 (8.15%)
+    - Category 'U': 28 (6.17%)
+    - Category 'T': 25 (5.51%)
+    - Category 'K': 24 (5.29%)
+    - Category 'M': 23 (5.07%)
+    - Category 'C': 21 (4.63%)
+    - Category 'O': 19 (4.19%)
+    - Category 'o': 18 (3.96%)
+    - Category 'n': 18 (3.96%)
+    - Category 'e': 18 (3.96%)
+    - Category 'A': 13 (2.86%)
+    - Category 'Q': 13 (2.86%)
+    - Category 'G': 9 (1.98%)
+    - Category 'I': 8 (1.76%)
+    - Category 'H': 7 (1.54%)
+    - Category 'V': 7 (1.54%)
+    - Category 'J': 4 (0.88%)
+    - Category 'F': 3 (0.66%)
+    - Category 'D': 3 (0.66%)
+    - Category 'L': 2 (0.44%)
+
+  --- By Functional Group ---
+    - Metabolism: 172 (37.89%)
+    - Poorly Characterized: 39 (8.59%)
+    - Cellular Processes & Signaling: 146 (32.16%)
+    - Information Storage & Processing: 43 (9.47%)
+    - Unknown: 54 (11.89%)
+
+==================================================
+--- Overall Directory Summary ---
+==================================================
+Total COG entries in directory: 8262
+Total rows read: 5939
+Total rows skipped (empty/NA/unparseable): 0
+
+--- Overall by Individual COG Letter ---
+  - Category 'N': 980 (11.86%)
+  - Category 'S': 839 (10.15%)
+  - Category 'P': 683 (8.27%)
+  - Category 'U': 626 (7.58%)
+  - Category 'E': 580 (7.02%)
+  - Category 'K': 558 (6.75%)
+  - Category 'T': 532 (6.44%)
+  - Category 'M': 463 (5.60%)
+  - Category 'A': 423 (5.12%)
+  - Category 'C': 355 (4.30%)
+  - Category 'o': 290 (3.51%)
+  - Category 'n': 290 (3.51%)
+  - Category 'e': 290 (3.51%)
+  - Category 'O': 261 (3.16%)
+  - Category 'Q': 206 (2.49%)
+  - Category 'G': 176 (2.13%)
+  - Category 'J': 143 (1.73%)
+  - Category 'L': 143 (1.73%)
+  - Category 'I': 125 (1.51%)
+  - Category 'H': 125 (1.51%)
+  - Category 'V': 77 (0.93%)
+  - Category 'F': 70 (0.85%)
+  - Category 'D': 27 (0.33%)
+
+--- Overall by Functional Group ---
+  - Metabolism: 2320 (28.08%)
+  - Poorly Characterized: 839 (10.15%)
+  - Cellular Processes & Signaling: 2966 (35.90%)
+  - Information Storage & Processing: 1267 (15.34%)
+  - Unknown: 870 (10.53%)

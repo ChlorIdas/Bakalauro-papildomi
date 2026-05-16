@@ -1,0 +1,250 @@
+--- Analysis per File ---
+
+--- Analysis for: Amoxicillin_Clavulanate_annotated_analysis.with_cog.resistant_only.tsv ---
+
+  Total COG entries found: 12
+  Rows skipped (COG_category empty/NA/unparseable): 10
+  --- By Individual COG Letter ---
+    - Category 'S': 3 (25.00%)
+    - Category 'K': 3 (25.00%)
+    - Category 'Q': 2 (16.67%)
+    - Category 'T': 1 (8.33%)
+    - Category 'M': 1 (8.33%)
+    - Category 'E': 1 (8.33%)
+    - Category 'P': 1 (8.33%)
+
+  --- By Functional Group ---
+    - Metabolism: 4 (33.33%)
+    - Poorly Characterized: 3 (25.00%)
+    - Cellular Processes & Signaling: 2 (16.67%)
+    - Information Storage & Processing: 3 (25.00%)
+
+--- Analysis for: Ceftazidime_annotated_analysis.with_cog.resistant_only.tsv ---
+
+  Total COG entries found: 13
+  Rows skipped (COG_category empty/NA/unparseable): 12
+  --- By Individual COG Letter ---
+    - Category 'K': 3 (23.08%)
+    - Category 'E': 2 (15.38%)
+    - Category 'C': 2 (15.38%)
+    - Category 'G': 1 (7.69%)
+    - Category 'M': 1 (7.69%)
+    - Category '-': 1 (7.69%)
+    - Category 'S': 1 (7.69%)
+    - Category 'P': 1 (7.69%)
+    - Category 'V': 1 (7.69%)
+
+  --- By Functional Group ---
+    - Metabolism: 6 (46.15%)
+    - Poorly Characterized: 1 (7.69%)
+    - Cellular Processes & Signaling: 2 (15.38%)
+    - Information Storage & Processing: 3 (23.08%)
+    - Unknown: 1 (7.69%)
+
+--- Analysis for: Ciprofloxacin_annotated_analysis.with_cog.resistant_only.tsv ---
+
+  Total COG entries found: 12
+  Rows skipped (COG_category empty/NA/unparseable): 5
+  --- By Individual COG Letter ---
+    - Category 'E': 2 (16.67%)
+    - Category 'G': 2 (16.67%)
+    - Category 'K': 2 (16.67%)
+    - Category 'N': 1 (8.33%)
+    - Category 'T': 1 (8.33%)
+    - Category 'H': 1 (8.33%)
+    - Category 'S': 1 (8.33%)
+    - Category 'J': 1 (8.33%)
+    - Category 'P': 1 (8.33%)
+
+  --- By Functional Group ---
+    - Metabolism: 6 (50.00%)
+    - Poorly Characterized: 1 (8.33%)
+    - Cellular Processes & Signaling: 2 (16.67%)
+    - Information Storage & Processing: 3 (25.00%)
+
+--- Analysis for: Colistin_annotated_analysis.with_cog.resistant_only.tsv ---
+
+  Total COG entries found: 9
+  Rows skipped (COG_category empty/NA/unparseable): 14
+  --- By Individual COG Letter ---
+    - Category 'S': 3 (33.33%)
+    - Category 'T': 1 (11.11%)
+    - Category 'E': 1 (11.11%)
+    - Category 'C': 1 (11.11%)
+    - Category 'V': 1 (11.11%)
+    - Category 'P': 1 (11.11%)
+    - Category 'M': 1 (11.11%)
+
+  --- By Functional Group ---
+    - Metabolism: 3 (33.33%)
+    - Poorly Characterized: 3 (33.33%)
+    - Cellular Processes & Signaling: 3 (33.33%)
+
+--- Analysis for: Imipenem_annotated_analysis.with_cog.resistant_only.tsv ---
+
+  Total COG entries found: 20
+  Rows skipped (COG_category empty/NA/unparseable): 11
+  --- By Individual COG Letter ---
+    - Category 'E': 5 (25.00%)
+    - Category 'U': 2 (10.00%)
+    - Category 'S': 2 (10.00%)
+    - Category 'P': 2 (10.00%)
+    - Category 'C': 2 (10.00%)
+    - Category 'K': 2 (10.00%)
+    - Category 'Q': 1 (5.00%)
+    - Category 'L': 1 (5.00%)
+    - Category 'G': 1 (5.00%)
+    - Category 'M': 1 (5.00%)
+    - Category 'H': 1 (5.00%)
+
+  --- By Functional Group ---
+    - Metabolism: 12 (60.00%)
+    - Poorly Characterized: 2 (10.00%)
+    - Cellular Processes & Signaling: 3 (15.00%)
+    - Information Storage & Processing: 3 (15.00%)
+
+--- Analysis for: Meropenem_annotated_analysis.with_cog.resistant_only.tsv ---
+
+  Total COG entries found: 6
+  Rows skipped (COG_category empty/NA/unparseable): 14
+  --- By Individual COG Letter ---
+    - Category 'T': 1 (16.67%)
+    - Category 'V': 1 (16.67%)
+    - Category 'C': 1 (16.67%)
+    - Category 'G': 1 (16.67%)
+    - Category 'Q': 1 (16.67%)
+    - Category 'S': 1 (16.67%)
+
+  --- By Functional Group ---
+    - Metabolism: 3 (50.00%)
+    - Poorly Characterized: 1 (16.67%)
+    - Cellular Processes & Signaling: 2 (33.33%)
+
+--- Analysis for: Piperacillin_Tazobactam_annotated_analysis.with_cog.resistant_only.tsv ---
+
+  Total COG entries found: 13
+  Rows skipped (COG_category empty/NA/unparseable): 21
+  --- By Individual COG Letter ---
+    - Category 'E': 3 (23.08%)
+    - Category 'P': 2 (15.38%)
+    - Category 'G': 2 (15.38%)
+    - Category 'M': 1 (7.69%)
+    - Category 'T': 1 (7.69%)
+    - Category 'H': 1 (7.69%)
+    - Category 'N': 1 (7.69%)
+    - Category 'U': 1 (7.69%)
+    - Category 'F': 1 (7.69%)
+
+  --- By Functional Group ---
+    - Metabolism: 9 (69.23%)
+    - Cellular Processes & Signaling: 4 (30.77%)
+
+--- Analysis for: Sulfonamide_annotated_analysis.with_cog.resistant_only.tsv ---
+
+  Total COG entries found: 14
+  Rows skipped (COG_category empty/NA/unparseable): 14
+  --- By Individual COG Letter ---
+    - Category 'S': 3 (21.43%)
+    - Category 'T': 2 (14.29%)
+    - Category 'I': 1 (7.14%)
+    - Category 'M': 1 (7.14%)
+    - Category 'P': 1 (7.14%)
+    - Category 'G': 1 (7.14%)
+    - Category 'U': 1 (7.14%)
+    - Category 'Q': 1 (7.14%)
+    - Category 'L': 1 (7.14%)
+    - Category 'C': 1 (7.14%)
+    - Category 'E': 1 (7.14%)
+
+  --- By Functional Group ---
+    - Metabolism: 6 (42.86%)
+    - Poorly Characterized: 3 (21.43%)
+    - Cellular Processes & Signaling: 4 (28.57%)
+    - Information Storage & Processing: 1 (7.14%)
+
+--- Analysis for: Tigecycline_annotated_analysis.with_cog.resistant_only.tsv ---
+
+  Total COG entries found: 20
+  Rows skipped (COG_category empty/NA/unparseable): 11
+  --- By Individual COG Letter ---
+    - Category 'T': 4 (20.00%)
+    - Category 'S': 3 (15.00%)
+    - Category 'E': 2 (10.00%)
+    - Category 'L': 2 (10.00%)
+    - Category 'C': 1 (5.00%)
+    - Category 'D': 1 (5.00%)
+    - Category 'H': 1 (5.00%)
+    - Category 'V': 1 (5.00%)
+    - Category 'I': 1 (5.00%)
+    - Category 'Q': 1 (5.00%)
+    - Category 'P': 1 (5.00%)
+    - Category 'M': 1 (5.00%)
+    - Category 'G': 1 (5.00%)
+
+  --- By Functional Group ---
+    - Metabolism: 8 (40.00%)
+    - Poorly Characterized: 3 (15.00%)
+    - Cellular Processes & Signaling: 7 (35.00%)
+    - Information Storage & Processing: 2 (10.00%)
+
+--- Analysis for: Trimethoprim_sulfamethoxazole_annotated_analysis.with_cog.resistant_only.tsv ---
+
+  Total COG entries found: 20
+  Rows skipped (COG_category empty/NA/unparseable): 11
+  --- By Individual COG Letter ---
+    - Category 'E': 4 (20.00%)
+    - Category 'P': 2 (10.00%)
+    - Category 'Q': 2 (10.00%)
+    - Category 'S': 2 (10.00%)
+    - Category 'F': 1 (5.00%)
+    - Category 'G': 1 (5.00%)
+    - Category '-': 1 (5.00%)
+    - Category 'L': 1 (5.00%)
+    - Category 'J': 1 (5.00%)
+    - Category 'N': 1 (5.00%)
+    - Category 'T': 1 (5.00%)
+    - Category 'U': 1 (5.00%)
+    - Category 'H': 1 (5.00%)
+    - Category 'D': 1 (5.00%)
+
+  --- By Functional Group ---
+    - Metabolism: 11 (55.00%)
+    - Poorly Characterized: 2 (10.00%)
+    - Cellular Processes & Signaling: 4 (20.00%)
+    - Information Storage & Processing: 2 (10.00%)
+    - Unknown: 1 (5.00%)
+
+==================================================
+--- Overall Directory Summary ---
+==================================================
+Total COG entries in directory: 139
+Total rows read: 246
+Total rows skipped (empty/NA/unparseable): 123
+
+--- Overall by Individual COG Letter ---
+  - Category 'E': 21 (15.11%)
+  - Category 'S': 19 (13.67%)
+  - Category 'T': 12 (8.63%)
+  - Category 'P': 12 (8.63%)
+  - Category 'K': 10 (7.19%)
+  - Category 'G': 10 (7.19%)
+  - Category 'Q': 8 (5.76%)
+  - Category 'C': 8 (5.76%)
+  - Category 'M': 7 (5.04%)
+  - Category 'H': 5 (3.60%)
+  - Category 'U': 5 (3.60%)
+  - Category 'L': 5 (3.60%)
+  - Category 'V': 4 (2.88%)
+  - Category 'N': 3 (2.16%)
+  - Category '-': 2 (1.44%)
+  - Category 'J': 2 (1.44%)
+  - Category 'F': 2 (1.44%)
+  - Category 'I': 2 (1.44%)
+  - Category 'D': 2 (1.44%)
+
+--- Overall by Functional Group ---
+  - Metabolism: 68 (48.92%)
+  - Poorly Characterized: 19 (13.67%)
+  - Cellular Processes & Signaling: 33 (23.74%)
+  - Information Storage & Processing: 17 (12.23%)
+  - Unknown: 2 (1.44%)

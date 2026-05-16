@@ -1,0 +1,408 @@
+--- Analysis per File ---
+
+--- Analysis for: Amoxicillin_Clavulanate_blasted_annotated.tsv ---
+
+  Total COG entries found: 341703
+  Rows skipped (COG_category empty/NA/unparseable): 0
+  --- By Individual COG Letter ---
+    - Category 'S': 40705 (11.91%)
+    - Category 'E': 30971 (9.06%)
+    - Category 'N': 30866 (9.03%)
+    - Category 'P': 30363 (8.89%)
+    - Category 'A': 24539 (7.18%)
+    - Category 'K': 23003 (6.73%)
+    - Category 'C': 21890 (6.41%)
+    - Category 'M': 18135 (5.31%)
+    - Category 'U': 16567 (4.85%)
+    - Category 'G': 15192 (4.45%)
+    - Category 'T': 14000 (4.10%)
+    - Category 'I': 11625 (3.40%)
+    - Category 'Q': 10012 (2.93%)
+    - Category 'H': 9666 (2.83%)
+    - Category 'L': 9499 (2.78%)
+    - Category '-': 8666 (2.54%)
+    - Category 'J': 7395 (2.16%)
+    - Category 'O': 6834 (2.00%)
+    - Category 'F': 4942 (1.45%)
+    - Category 'V': 4161 (1.22%)
+    - Category 'D': 2307 (0.68%)
+    - Category 'B': 226 (0.07%)
+    - Category 'W': 112 (0.03%)
+    - Category 'Z': 27 (0.01%)
+
+  --- By Functional Group ---
+    - Metabolism: 134661 (39.41%)
+    - Poorly Characterized: 40705 (11.91%)
+    - Cellular Processes & Signaling: 93009 (27.22%)
+    - Information Storage & Processing: 64662 (18.92%)
+    - Unknown: 8666 (2.54%)
+
+--- Analysis for: Ceftazidime_blasted_annotated.tsv ---
+
+  Total COG entries found: 230222
+  Rows skipped (COG_category empty/NA/unparseable): 0
+  --- By Individual COG Letter ---
+    - Category 'S': 27674 (12.02%)
+    - Category 'N': 21290 (9.25%)
+    - Category 'E': 21256 (9.23%)
+    - Category 'P': 21026 (9.13%)
+    - Category 'A': 17165 (7.46%)
+    - Category 'C': 15514 (6.74%)
+    - Category 'K': 15418 (6.70%)
+    - Category 'U': 10774 (4.68%)
+    - Category 'M': 10625 (4.62%)
+    - Category 'G': 10455 (4.54%)
+    - Category 'T': 8459 (3.67%)
+    - Category 'I': 7272 (3.16%)
+    - Category 'Q': 6876 (2.99%)
+    - Category 'H': 6694 (2.91%)
+    - Category 'L': 6581 (2.86%)
+    - Category '-': 6228 (2.71%)
+    - Category 'O': 4704 (2.04%)
+    - Category 'J': 4632 (2.01%)
+    - Category 'V': 3065 (1.33%)
+    - Category 'F': 3008 (1.31%)
+    - Category 'D': 1231 (0.53%)
+    - Category 'B': 160 (0.07%)
+    - Category 'W': 106 (0.05%)
+    - Category 'Z': 9 (0.00%)
+
+  --- By Functional Group ---
+    - Metabolism: 92101 (40.01%)
+    - Poorly Characterized: 27674 (12.02%)
+    - Cellular Processes & Signaling: 60263 (26.18%)
+    - Information Storage & Processing: 43956 (19.09%)
+    - Unknown: 6228 (2.71%)
+
+--- Analysis for: Ciprofloxacin_blasted_annotated.tsv ---
+
+  Total COG entries found: 171597
+  Rows skipped (COG_category empty/NA/unparseable): 0
+  --- By Individual COG Letter ---
+    - Category 'S': 21698 (12.64%)
+    - Category 'E': 15708 (9.15%)
+    - Category 'P': 15465 (9.01%)
+    - Category 'N': 14985 (8.73%)
+    - Category 'A': 12103 (7.05%)
+    - Category 'C': 11982 (6.98%)
+    - Category 'K': 11885 (6.93%)
+    - Category 'M': 8210 (4.78%)
+    - Category 'U': 7753 (4.52%)
+    - Category 'G': 7421 (4.32%)
+    - Category 'T': 6560 (3.82%)
+    - Category 'I': 5835 (3.40%)
+    - Category '-': 5106 (2.98%)
+    - Category 'L': 4952 (2.89%)
+    - Category 'Q': 4795 (2.79%)
+    - Category 'H': 4558 (2.66%)
+    - Category 'O': 3464 (2.02%)
+    - Category 'J': 3236 (1.89%)
+    - Category 'F': 2648 (1.54%)
+    - Category 'V': 2206 (1.29%)
+    - Category 'D': 870 (0.51%)
+    - Category 'B': 96 (0.06%)
+    - Category 'W': 50 (0.03%)
+    - Category 'Z': 11 (0.01%)
+
+  --- By Functional Group ---
+    - Metabolism: 68412 (39.87%)
+    - Poorly Characterized: 21698 (12.64%)
+    - Cellular Processes & Signaling: 44109 (25.70%)
+    - Information Storage & Processing: 32272 (18.81%)
+    - Unknown: 5106 (2.98%)
+
+--- Analysis for: Colistin_blasted_annotated.tsv ---
+
+  Total COG entries found: 372291
+  Rows skipped (COG_category empty/NA/unparseable): 0
+  --- By Individual COG Letter ---
+    - Category 'S': 45745 (12.29%)
+    - Category 'E': 34496 (9.27%)
+    - Category 'N': 33293 (8.94%)
+    - Category 'P': 33189 (8.91%)
+    - Category 'A': 28109 (7.55%)
+    - Category 'K': 24692 (6.63%)
+    - Category 'C': 24254 (6.51%)
+    - Category 'M': 18308 (4.92%)
+    - Category 'G': 16618 (4.46%)
+    - Category 'U': 16489 (4.43%)
+    - Category 'T': 14173 (3.81%)
+    - Category 'I': 11980 (3.22%)
+    - Category 'Q': 11232 (3.02%)
+    - Category 'L': 11049 (2.97%)
+    - Category '-': 9887 (2.66%)
+    - Category 'H': 9849 (2.65%)
+    - Category 'J': 7636 (2.05%)
+    - Category 'O': 7617 (2.05%)
+    - Category 'F': 5784 (1.55%)
+    - Category 'V': 4720 (1.27%)
+    - Category 'D': 2710 (0.73%)
+    - Category 'B': 310 (0.08%)
+    - Category 'W': 110 (0.03%)
+    - Category 'Z': 41 (0.01%)
+
+  --- By Functional Group ---
+    - Metabolism: 147402 (39.59%)
+    - Poorly Characterized: 45745 (12.29%)
+    - Cellular Processes & Signaling: 97461 (26.18%)
+    - Information Storage & Processing: 71796 (19.28%)
+    - Unknown: 9887 (2.66%)
+
+--- Analysis for: Imipenem_blasted_annotated.tsv ---
+
+  Total COG entries found: 35555
+  Rows skipped (COG_category empty/NA/unparseable): 237140
+  --- By Individual COG Letter ---
+    - Category 'S': 4150 (11.67%)
+    - Category 'N': 3424 (9.63%)
+    - Category 'E': 3104 (8.73%)
+    - Category 'P': 2780 (7.82%)
+    - Category 'A': 2729 (7.68%)
+    - Category 'K': 2520 (7.09%)
+    - Category 'C': 2248 (6.32%)
+    - Category 'M': 2194 (6.17%)
+    - Category 'G': 1660 (4.67%)
+    - Category 'T': 1452 (4.08%)
+    - Category 'U': 1278 (3.59%)
+    - Category 'I': 1254 (3.53%)
+    - Category 'H': 1040 (2.93%)
+    - Category 'J': 980 (2.76%)
+    - Category 'Q': 955 (2.69%)
+    - Category 'L': 894 (2.51%)
+    - Category '-': 797 (2.24%)
+    - Category 'O': 704 (1.98%)
+    - Category 'F': 595 (1.67%)
+    - Category 'V': 447 (1.26%)
+    - Category 'D': 311 (0.87%)
+    - Category 'B': 30 (0.08%)
+    - Category 'W': 9 (0.03%)
+
+  --- By Functional Group ---
+    - Metabolism: 13636 (38.35%)
+    - Poorly Characterized: 4150 (11.67%)
+    - Cellular Processes & Signaling: 9819 (27.62%)
+    - Information Storage & Processing: 7153 (20.12%)
+    - Unknown: 797 (2.24%)
+
+--- Analysis for: Meropenem_blasted_annotated.tsv ---
+
+  Total COG entries found: 20935
+  Rows skipped (COG_category empty/NA/unparseable): 247589
+  --- By Individual COG Letter ---
+    - Category 'S': 2631 (12.57%)
+    - Category 'N': 2204 (10.53%)
+    - Category 'A': 1841 (8.79%)
+    - Category 'E': 1810 (8.65%)
+    - Category 'P': 1579 (7.54%)
+    - Category 'C': 1307 (6.24%)
+    - Category 'K': 1180 (5.64%)
+    - Category 'M': 1091 (5.21%)
+    - Category 'U': 1001 (4.78%)
+    - Category 'G': 859 (4.10%)
+    - Category 'L': 834 (3.98%)
+    - Category '-': 734 (3.51%)
+    - Category 'H': 617 (2.95%)
+    - Category 'I': 616 (2.94%)
+    - Category 'T': 606 (2.89%)
+    - Category 'Q': 533 (2.55%)
+    - Category 'F': 404 (1.93%)
+    - Category 'J': 390 (1.86%)
+    - Category 'O': 383 (1.83%)
+    - Category 'V': 164 (0.78%)
+    - Category 'D': 130 (0.62%)
+    - Category 'B': 11 (0.05%)
+    - Category 'W': 9 (0.04%)
+    - Category 'Z': 1 (0.00%)
+
+  --- By Functional Group ---
+    - Metabolism: 7725 (36.90%)
+    - Poorly Characterized: 2631 (12.57%)
+    - Cellular Processes & Signaling: 5589 (26.70%)
+    - Information Storage & Processing: 4256 (20.33%)
+    - Unknown: 734 (3.51%)
+
+--- Analysis for: Piperacillin_Tazobactam_blasted_annotated.tsv ---
+
+  Total COG entries found: 31881
+  Rows skipped (COG_category empty/NA/unparseable): 343913
+  --- By Individual COG Letter ---
+    - Category 'S': 4037 (12.66%)
+    - Category 'E': 3367 (10.56%)
+    - Category 'P': 2951 (9.26%)
+    - Category 'C': 2312 (7.25%)
+    - Category 'K': 2297 (7.20%)
+    - Category 'N': 2140 (6.71%)
+    - Category 'M': 1719 (5.39%)
+    - Category 'A': 1466 (4.60%)
+    - Category 'G': 1466 (4.60%)
+    - Category 'T': 1345 (4.22%)
+    - Category 'U': 1275 (4.00%)
+    - Category 'I': 1245 (3.91%)
+    - Category 'Q': 1240 (3.89%)
+    - Category 'H': 1037 (3.25%)
+    - Category 'L': 721 (2.26%)
+    - Category 'J': 696 (2.18%)
+    - Category 'O': 635 (1.99%)
+    - Category 'F': 632 (1.98%)
+    - Category '-': 602 (1.89%)
+    - Category 'V': 376 (1.18%)
+    - Category 'D': 274 (0.86%)
+    - Category 'B': 30 (0.09%)
+    - Category 'W': 15 (0.05%)
+    - Category 'Z': 3 (0.01%)
+
+  --- By Functional Group ---
+    - Metabolism: 14250 (44.70%)
+    - Poorly Characterized: 4037 (12.66%)
+    - Cellular Processes & Signaling: 7782 (24.41%)
+    - Information Storage & Processing: 5210 (16.34%)
+    - Unknown: 602 (1.89%)
+
+--- Analysis for: Sulfonamide_blasted_annotated.tsv ---
+
+  Total COG entries found: 8952
+  Rows skipped (COG_category empty/NA/unparseable): 270159
+  --- By Individual COG Letter ---
+    - Category 'S': 991 (11.07%)
+    - Category 'P': 833 (9.31%)
+    - Category 'N': 773 (8.63%)
+    - Category 'E': 760 (8.49%)
+    - Category 'K': 665 (7.43%)
+    - Category 'A': 634 (7.08%)
+    - Category 'C': 607 (6.78%)
+    - Category 'M': 508 (5.67%)
+    - Category 'U': 419 (4.68%)
+    - Category 'T': 408 (4.56%)
+    - Category 'G': 346 (3.87%)
+    - Category 'H': 295 (3.30%)
+    - Category 'J': 276 (3.08%)
+    - Category 'I': 256 (2.86%)
+    - Category 'L': 254 (2.84%)
+    - Category 'Q': 238 (2.66%)
+    - Category '-': 219 (2.45%)
+    - Category 'O': 177 (1.98%)
+    - Category 'F': 139 (1.55%)
+    - Category 'V': 80 (0.89%)
+    - Category 'D': 59 (0.66%)
+    - Category 'B': 11 (0.12%)
+    - Category 'W': 2 (0.02%)
+    - Category 'Z': 2 (0.02%)
+
+  --- By Functional Group ---
+    - Metabolism: 3474 (38.81%)
+    - Poorly Characterized: 991 (11.07%)
+    - Cellular Processes & Signaling: 2428 (27.12%)
+    - Information Storage & Processing: 1840 (20.55%)
+    - Unknown: 219 (2.45%)
+
+--- Analysis for: Tigecycline_blasted_annotated.tsv ---
+
+  Total COG entries found: 1311
+  Rows skipped (COG_category empty/NA/unparseable): 217594
+  --- By Individual COG Letter ---
+    - Category 'S': 175 (13.35%)
+    - Category 'M': 139 (10.60%)
+    - Category 'N': 119 (9.08%)
+    - Category 'A': 106 (8.09%)
+    - Category 'G': 104 (7.93%)
+    - Category 'E': 100 (7.63%)
+    - Category 'P': 76 (5.80%)
+    - Category 'C': 73 (5.57%)
+    - Category 'U': 48 (3.66%)
+    - Category 'L': 46 (3.51%)
+    - Category 'J': 45 (3.43%)
+    - Category '-': 41 (3.13%)
+    - Category 'H': 38 (2.90%)
+    - Category 'K': 37 (2.82%)
+    - Category 'O': 30 (2.29%)
+    - Category 'F': 29 (2.21%)
+    - Category 'D': 29 (2.21%)
+    - Category 'I': 22 (1.68%)
+    - Category 'T': 21 (1.60%)
+    - Category 'Q': 18 (1.37%)
+    - Category 'V': 12 (0.92%)
+    - Category 'W': 3 (0.23%)
+
+  --- By Functional Group ---
+    - Metabolism: 460 (35.09%)
+    - Poorly Characterized: 175 (13.35%)
+    - Cellular Processes & Signaling: 401 (30.59%)
+    - Information Storage & Processing: 234 (17.85%)
+    - Unknown: 41 (3.13%)
+
+--- Analysis for: Trimethoprim_sulfamethoxazole_blasted_annotated.tsv ---
+
+  Total COG entries found: 8930
+  Rows skipped (COG_category empty/NA/unparseable): 144054
+  --- By Individual COG Letter ---
+    - Category 'S': 1118 (12.52%)
+    - Category 'N': 1039 (11.63%)
+    - Category 'A': 878 (9.83%)
+    - Category 'E': 702 (7.86%)
+    - Category 'P': 661 (7.40%)
+    - Category 'C': 547 (6.13%)
+    - Category 'K': 509 (5.70%)
+    - Category 'M': 500 (5.60%)
+    - Category 'U': 420 (4.70%)
+    - Category 'G': 377 (4.22%)
+    - Category '-': 325 (3.64%)
+    - Category 'L': 325 (3.64%)
+    - Category 'H': 273 (3.06%)
+    - Category 'T': 234 (2.62%)
+    - Category 'I': 200 (2.24%)
+    - Category 'Q': 198 (2.22%)
+    - Category 'F': 198 (2.22%)
+    - Category 'J': 176 (1.97%)
+    - Category 'O': 133 (1.49%)
+    - Category 'D': 61 (0.68%)
+    - Category 'V': 50 (0.56%)
+    - Category 'B': 3 (0.03%)
+    - Category 'W': 2 (0.02%)
+    - Category 'Z': 1 (0.01%)
+
+  --- By Functional Group ---
+    - Metabolism: 3156 (35.34%)
+    - Poorly Characterized: 1118 (12.52%)
+    - Cellular Processes & Signaling: 2440 (27.32%)
+    - Information Storage & Processing: 1891 (21.18%)
+    - Unknown: 325 (3.64%)
+
+==================================================
+--- Overall Directory Summary ---
+==================================================
+Total COG entries in directory: 1223377
+Total rows read: 2483345
+Total rows skipped (empty/NA/unparseable): 1460449
+
+--- Overall by Individual COG Letter ---
+  - Category 'S': 148924 (12.17%)
+  - Category 'E': 112274 (9.18%)
+  - Category 'N': 110133 (9.00%)
+  - Category 'P': 108923 (8.90%)
+  - Category 'A': 89570 (7.32%)
+  - Category 'K': 82206 (6.72%)
+  - Category 'C': 80734 (6.60%)
+  - Category 'M': 61429 (5.02%)
+  - Category 'U': 56024 (4.58%)
+  - Category 'G': 54498 (4.45%)
+  - Category 'T': 47258 (3.86%)
+  - Category 'I': 40305 (3.29%)
+  - Category 'Q': 36097 (2.95%)
+  - Category 'L': 35155 (2.87%)
+  - Category 'H': 34067 (2.78%)
+  - Category '-': 32605 (2.67%)
+  - Category 'J': 25462 (2.08%)
+  - Category 'O': 24681 (2.02%)
+  - Category 'F': 18379 (1.50%)
+  - Category 'V': 15281 (1.25%)
+  - Category 'D': 7982 (0.65%)
+  - Category 'B': 877 (0.07%)
+  - Category 'W': 418 (0.03%)
+  - Category 'Z': 95 (0.01%)
+
+--- Overall by Functional Group ---
+  - Metabolism: 485277 (39.67%)
+  - Poorly Characterized: 148924 (12.17%)
+  - Cellular Processes & Signaling: 323301 (26.43%)
+  - Information Storage & Processing: 233270 (19.07%)
+  - Unknown: 32605 (2.67%)
