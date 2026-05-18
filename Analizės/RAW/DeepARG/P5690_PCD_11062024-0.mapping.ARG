@@ -1,0 +1,10 @@
+#ARG	query-start	query-end	read_id	predicted_ARG-class	best-hit	probability	identity	alignment-length	alignment-bitscore	alignment-evalue	counts
+MEXE	4	378	OPPHGG_05920	multidrug	ZP_02371790|FEATURES|mexE|multidrug|mexE	0.99999830873	64.8	381	462.2	1.5e-130	1
+MEXE	11	380	OPPHGG_12535	multidrug	gi:696364907:ref:WP_032939988.1:|FEATURES|mexE|multidrug|mexE	0.999971826413	60.3	373	401.4	3.1e-112	1
+TETA	7	388	OPPHGG_22915	tetracycline	gi:971830223:ref:WP_058905222.1:|FEATURES|tetA|tetracycline|tetA	0.999999510683	74.3	382	552.4	1.1e-157	1
+CHLORAMPHENICOL_EXPORTER	1	389	OPPHGG_30230	phenicol	AM296481.1.gene2.p01|FEATURES|chloramphenicol_exporter|phenicol|chloramphenicol_exporter	0.999332950223	75.1	389	576.6	5.3e-165	1
+KDPE	4	223	OPPHGG_10305	aminoglycoside	NP_415222.1|FEATURES|kdpE|aminoglycoside|kdpE	0.988194435984	62.9	221	285.4	1.4e-77	1
+ACRB	1	1059	OPPHGG_12540	multidrug	CP002695.1.gene992.p01|FEATURES|acrB|multidrug|acrB	0.997924003914	83.7	1060	1698.7	0.0e+00	1
+ROSA	5	402	OPPHGG_18030	fosmidomycin	ZP_04638972|FEATURES|rosA|fosmidomycin|rosA	0.999274644275	66.8	398	509.2	1.1e-144	1
+OPCM	15	500	OPPHGG_05910	multidrug	YP_622885|FEATURES|opcM|multidrug|opcM	0.999973145496	63.3	488	571.2	2.8e-163	1
+BPEF	1	1060	OPPHGG_05915	multidrug	YP_001025938|FEATURES|bpeF|multidrug|bpeF	0.999992573292	80.3	1060	1623.6	0.0e+00	1

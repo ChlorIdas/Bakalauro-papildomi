@@ -1,0 +1,10 @@
+#ARG	query-start	query-end	read_id	predicted_ARG-class	best-hit	probability	identity	alignment-length	alignment-bitscore	alignment-evalue	counts
+ROSA	5	402	GKINAG_20970	fosmidomycin	ZP_04638972|FEATURES|rosA|fosmidomycin|rosA	0.999274644275	66.8	398	509.6	8.3e-145	1
+TETA	7	388	GKINAG_26700	tetracycline	gi:922044596:ref:WP_053320764.1:|FEATURES|tetA|tetracycline|tetA	0.999999510683	74.9	382	554.7	2.2e-158	1
+BPEF	1	1060	GKINAG_03100	multidrug	YP_001025938|FEATURES|bpeF|multidrug|bpeF	0.999992573292	80.3	1060	1623.6	0.0e+00	1
+OPCM	15	500	GKINAG_03095	multidrug	YP_622885|FEATURES|opcM|multidrug|opcM	0.999973145496	63.7	488	571.6	2.1e-163	1
+MEXE	4	378	GKINAG_03105	multidrug	gi:782676469:ref:WP_045601841.1:|FEATURES|mexE|multidrug|mexE	0.99999830873	64.8	381	462.2	1.5e-130	1
+MEXE	11	380	GKINAG_22520	multidrug	gi:696364907:ref:WP_032939988.1:|FEATURES|mexE|multidrug|mexE	0.999971826413	60.3	373	401.4	3.1e-112	1
+KDPE	4	223	GKINAG_16310	aminoglycoside	NP_415222.1|FEATURES|kdpE|aminoglycoside|kdpE	0.988194435984	62.9	221	285.4	1.4e-77	1
+ACRB	1	1059	GKINAG_22525	multidrug	CP002695.1.gene992.p01|FEATURES|acrB|multidrug|acrB	0.997924003914	83.8	1060	1702.6	0.0e+00	1
+CHLORAMPHENICOL_EXPORTER	1	389	GKINAG_23280	phenicol	AM296481.1.gene2.p01|FEATURES|chloramphenicol_exporter|phenicol|chloramphenicol_exporter	0.999332950223	74.3	389	568.2	1.9e-162	1

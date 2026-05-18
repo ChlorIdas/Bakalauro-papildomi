@@ -1,0 +1,7 @@
+#ARG	query-start	query-end	read_id	predicted_ARG-class	best-hit	probability	identity	alignment-length	alignment-bitscore	alignment-evalue	counts
+BPEF	1	1060	GEIDBF_05072	multidrug	YP_001025938|FEATURES|bpeF|multidrug|bpeF	0.999883580116	80.6	1060	1627.5	0.0e+00	1
+MEXE	13	378	GEIDBF_05073	multidrug	ZP_02371790|FEATURES|mexE|multidrug|mexE	0.999996848523	63.6	371	451.4	2.5e-127	1
+ROSA	20	404	GEIDBF_01813	fosmidomycin	ZP_04621517|FEATURES|rosA|fosmidomycin|rosA	0.999274644275	68.1	385	510.8	3.7e-145	1
+OMPR	3	243	GEIDBF_03020	multidrug	NC_008702.1.4607594.p01|FEATURES|ompR|multidrug|ompR	0.996531069875	67.8	242	323.9	3.8e-89	1
+CATB10	1	206	GEIDBF_02896	phenicol	CAI47810.1|FEATURES|catB10|phenicol|catB10	0.999993379245	80.6	206	374.8	1.7e-104	1
+KDPE	4	223	GEIDBF_03462	aminoglycoside	NP_415222.1|FEATURES|kdpE|aminoglycoside|kdpE	0.988194435984	62.9	221	289.7	7.5e-79	1
