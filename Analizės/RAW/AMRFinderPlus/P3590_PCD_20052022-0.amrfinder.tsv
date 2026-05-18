@@ -1,3 +1,0 @@
-Name	Protein id	Contig id	Start	Stop	Strand	Element symbol	Element name	Scope	Type	Subtype	Class	Subclass	Method	Target length	Reference sequence length	% Coverage of reference	% Identity to reference	Alignment length	Closest reference accession	Closest reference name	HMM accession	HMM description
-P3590_PCD_20052022-0	KENAEF_10210	contig_14	52037	53332	+	ampC	class C beta-lactamase	core	AMR	AMR	BETA-LACTAM	BETA-LACTAM	HMM	431	396	87.88	65.49	368	WP_280147732.1	class C beta-lactamase	NF033085.1	class C beta-lactamase
-P3590_PCD_20052022-0	KENAEF_15100	contig_25	44588	45478	-	blaOXA	class D beta-lactamase	core	AMR	AMR	BETA-LACTAM	BETA-LACTAM	HMM	296	271	99.26	41.52	277	WP_064808881.1	class D beta-lactamase	NF012161.0	class D beta-lactamase
