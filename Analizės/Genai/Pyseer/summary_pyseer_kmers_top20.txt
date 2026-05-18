@@ -1,0 +1,24 @@
+pyseer kmers: top 20 blast_gene by count (ONLY *_blasted.fixed.tsv under blasted/; tie: lower best lrt-pvalue)
+==============================================================================================================
+
+rank	count	best_lrt_pvalue	blast_gene
+1	3502	5.41e-09	group_11571
+2	3189	3.61e-07	group_12418
+3	3181	6.9e-07	group_12833
+4	2859	1.36e-10	group_16150
+5	2626	5.48e-11	group_10024
+6	2359	4.19e-06	atzF~~~uca
+7	2338	1.56e-06	group_16417
+8	2195	1.5e-08	acrB~~~ttgD~~~acrA~~~srpA
+9	2168	6.84e-07	group_11251
+10	2045	4.19e-06	group_12663
+11	2013	1.6e-08	putA
+12	1949	1.99e-11	group_10109
+13	1904	1.05e-07	cdiA
+14	1877	5.51e-10	acrB~~~tolC~~~oqxB
+15	1850	1.97e-06	group_47
+16	1831	1.75e-07	kup~~~baeS
+17	1808	5.4e-09	group_10169
+18	1787	1.94e-09	group_11800
+19	1757	6.91e-07	hrpA
+20	1747	3.21e-08	gltB

@@ -1,0 +1,24 @@
+pyseer pres: top 20 variant by count (tie: lower best lrt-pvalue)
+=================================================================
+
+rank	count	best_lrt_pvalue	variant
+1	8	1.11e-05	group_11475
+2	7	1.74e-06	group_17401
+3	7	4.19e-06	group_11463
+4	7	4.19e-06	group_1158
+5	7	4.19e-06	group_13382
+6	7	4.19e-06	group_1397
+7	7	4.19e-06	group_15233
+8	7	4.19e-06	group_15538
+9	7	4.19e-06	group_21392
+10	7	4.19e-06	group_22045
+11	7	4.19e-06	group_2350
+12	7	4.19e-06	group_23981
+13	7	4.19e-06	group_24142
+14	7	4.19e-06	group_24179
+15	7	4.19e-06	group_2461
+16	7	4.19e-06	group_24768
+17	7	4.19e-06	group_24769
+18	7	4.19e-06	group_254
+19	7	4.19e-06	group_3204
+20	7	4.19e-06	group_3248

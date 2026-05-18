@@ -1,0 +1,24 @@
+pyseer vcf: top 20 gene_id by count (tie: lower best lrt-pvalue)
+================================================================
+
+rank	count	best_lrt_pvalue	gene_id
+1	161	4.19e-06	group_16223
+2	127	4.19e-06	group_9895
+3	114	9.67e-05	group_11200
+4	92	9.67e-05	group_3549
+5	90	9.67e-05	group_725
+6	86	1.29e-05	group_13048
+7	83	4.19e-06	group_12697
+8	83	4.19e-06	group_12711
+9	82	4.19e-06	group_7910
+10	81	0.000471	hisM
+11	80	4.19e-06	group_13738
+12	78	4.19e-06	group_24567
+13	70	4.19e-06	fixJ
+14	69	9.67e-05	group_18238
+15	64	5.14e-06	group_8945
+16	63	3.08e-05	group_6728
+17	62	9.67e-05	yecS
+18	60	4.19e-06	group_5714
+19	59	4.19e-06	pknD
+20	59	7.93e-05	group_2993

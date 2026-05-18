@@ -1,0 +1,319 @@
+gene_name	COG	Antibiotic
+group_12865	T	Amoxicillin Clavulanate
+group_13008	S	Amoxicillin Clavulanate
+blc	M	Amoxicillin Clavulanate
+group_20807	S	Amoxicillin Clavulanate
+154_20_58	N	Amoxicillin Clavulanate
+group_7043	K	Amoxicillin Clavulanate
+group_16711	S	Amoxicillin Clavulanate
+301_3_400	E	Amoxicillin Clavulanate
+group_9996	K	Amoxicillin Clavulanate
+group_13401	K	Amoxicillin Clavulanate
+117_259_2	P	Amoxicillin Clavulanate
+group_21129	E	Ceftazidime
+group_3466	K	Ceftazidime
+198_19_29	C	Ceftazidime
+nuoG	C	Ceftazidime
+group_12738	K	Ceftazidime
+256_33_20	K	Ceftazidime
+group_9274	G	Ceftazidime
+58_3_113	N/A	Ceftazidime
+group_12023	M	Ceftazidime
+4_12_107	N/A	Ceftazidime
+group_19763	-	Ceftazidime
+group_13084	S	Ceftazidime
+184_15_6	P	Ceftazidime
+group_7773	E	Ceftazidime
+247_47_17	N/A	Ceftazidime
+group_13876	V	Ceftazidime
+275_61_20	NT	Ciprofloxacin
+group_8420	E	Ciprofloxacin
+239_36_1	G	Ciprofloxacin
+238_2_258	H	Ciprofloxacin
+300_22_59	S	Ciprofloxacin
+group_8219	K	Ciprofloxacin
+group_3847	E	Ciprofloxacin
+163_199_2	J	Ciprofloxacin
+group_10363	K	Ciprofloxacin
+289_30_15	G	Ciprofloxacin
+narK	P	Ciprofloxacin
+group_18716	S	Colistin
+128_0_349	N/A	Colistin
+94_60_3	N/A	Colistin
+149_26_36	N/A	Colistin
+group_12865	T	Colistin
+group_21116	E	Colistin
+group_20849	S	Colistin
+group_16278	C	Colistin
+195_118_0	N/A	Colistin
+247_7_93	N/A	Colistin
+group_24233	V	Colistin
+71_0_272	P	Colistin
+219_24_41	S	Colistin
+122_1_417	N/A	Colistin
+198_3_89	N/A	Colistin
+group_20986	M	Colistin
+286_32_22	N/A	Colistin
+138_5_13	N/A	Colistin
+216_7_18	Q	Imipenem
+group_16150	U	Imipenem
+117_58_15	S	Imipenem
+group_12968	P	Imipenem
+94_48_38	L	Imipenem
+91_29_20	N/A	Imipenem
+csbC	EGP	Imipenem
+40_98_0	C	Imipenem
+group_3942	M	Imipenem
+group_10024	U	Imipenem
+239_0_18	H	Imipenem
+247_47_4	N/A	Imipenem
+238_6_92	N/A	Imipenem
+282_64_0	E	Imipenem
+putA	C	Imipenem
+group_20713	E	Imipenem
+group_19548	K	Imipenem
+122_0_730	S	Imipenem
+group_20713	E	Imipenem
+84_17_100	K	Imipenem
+238_61_5	N/A	Imipenem
+group_12865	T	Meropenem
+group_28664	V	Meropenem
+group_16839	C	Meropenem
+139_35_42	G	Meropenem
+group_10109	Q	Meropenem
+155_2_136	N/A	Meropenem
+298_0_389	N/A	Meropenem
+155_77_0	N/A	Meropenem
+group_18716	S	Meropenem
+group_21252	E	Piperacillin Tazobactam
+group_3942	M	Piperacillin Tazobactam
+300_34_0	N/A	Piperacillin Tazobactam
+53_refound_528	N/A	Piperacillin Tazobactam
+17_refound_199	N/A	Piperacillin Tazobactam
+214_8_96	N/A	Piperacillin Tazobactam
+173_124_1	T	Piperacillin Tazobactam
+ppk1	H	Piperacillin Tazobactam
+264_23_60	N/A	Piperacillin Tazobactam
+group_11330	P	Piperacillin Tazobactam
+group_9711	NU	Piperacillin Tazobactam
+290_17_37	N/A	Piperacillin Tazobactam
+group_16273	EF	Piperacillin Tazobactam
+group_10100	EGP	Piperacillin Tazobactam
+group_3075	G	Piperacillin Tazobactam
+287_16_35	N/A	Piperacillin Tazobactam
+group_12865	T	Amoxicillin Clavulanate
+group_13008	S	Amoxicillin Clavulanate
+blc	M	Amoxicillin Clavulanate
+group_20807	S	Amoxicillin Clavulanate
+154_20_58	N/A	Amoxicillin Clavulanate
+group_7043	K	Amoxicillin Clavulanate
+group_16711	S	Amoxicillin Clavulanate
+301_3_400	E	Amoxicillin Clavulanate
+group_9996	K	Amoxicillin Clavulanate
+group_13401	K	Amoxicillin Clavulanate
+117_259_2	P	Amoxicillin Clavulanate
+group_21129	E	Ceftazidime
+group_3466	K	Ceftazidime
+198_19_29	C	Ceftazidime
+nuoG	C	Ceftazidime
+group_12738	K	Ceftazidime
+256_33_20	K	Ceftazidime
+group_9274	G	Ceftazidime
+58_3_113	N/A	Ceftazidime
+group_12023	M	Ceftazidime
+4_12_107	N/A	Ceftazidime
+group_19763	-	Ceftazidime
+group_13084	S	Ceftazidime
+184_15_6	P	Ceftazidime
+group_7773	E	Ceftazidime
+247_47_17	N/A	Ceftazidime
+group_13876	V	Ceftazidime
+275_61_20	NT	Ciprofloxacin
+group_8420	E	Ciprofloxacin
+239_36_1	G	Ciprofloxacin
+238_2_258	H	Ciprofloxacin
+300_22_59	S	Ciprofloxacin
+group_8219	K	Ciprofloxacin
+group_3847	E	Ciprofloxacin
+163_199_2	J	Ciprofloxacin
+group_10363	K	Ciprofloxacin
+289_30_15	G	Ciprofloxacin
+narK	P	Ciprofloxacin
+group_18716	S	Colistin
+128_0_349	N/A	Colistin
+94_60_3	N/A	Colistin
+149_26_36	N/A	Colistin
+group_12865	T	Colistin
+group_21116	E	Colistin
+group_20849	S	Colistin
+group_16278	C	Colistin
+195_118_0	N/A	Colistin
+247_7_93	N/A	Colistin
+group_24233	V	Colistin
+71_0_272	P	Colistin
+219_24_41	S	Colistin
+122_1_417	N/A	Colistin
+198_3_89	N/A	Colistin
+group_20986	M	Colistin
+286_32_22	N/A	Colistin
+138_5_13	N/A	Colistin
+216_7_18	Q	Imipenem
+group_16150	U	Imipenem
+117_58_15	S	Imipenem
+group_12968	P	Imipenem
+94_48_38	L	Imipenem
+91_29_20	N/A	Imipenem
+csbC	EGP	Imipenem
+40_98_0	C	Imipenem
+group_3942	M	Imipenem
+group_10024	U	Imipenem
+239_0_18	H	Imipenem
+247_47_4	N/A	Imipenem
+238_6_92	N/A	Imipenem
+282_64_0	E	Imipenem
+putA	C	Imipenem
+group_20713	E	Imipenem
+group_19548	K	Imipenem
+122_0_730	S	Imipenem
+group_20713	E	Imipenem
+84_17_100	K	Imipenem
+238_61_5	N/A	Imipenem
+group_12865	T	Meropenem
+group_28664	V	Meropenem
+group_16839	C	Meropenem
+139_35_42	G	Meropenem
+group_10109	Q	Meropenem
+155_2_136	N/A	Meropenem
+298_0_389	N/A	Meropenem
+155_77_0	N/A	Meropenem
+group_18716	S	Meropenem
+group_21252	E	Piperacillin Tazobactam
+group_3942	M	Piperacillin Tazobactam
+300_34_0	N/A	Piperacillin Tazobactam
+53_refound_528	N/A	Piperacillin Tazobactam
+17_refound_199	N/A	Piperacillin Tazobactam
+214_8_96	N/A	Piperacillin Tazobactam
+173_124_1	T	Piperacillin Tazobactam
+ppk1	H	Piperacillin Tazobactam
+264_23_60	N/A	Piperacillin Tazobactam
+group_11330	P	Piperacillin Tazobactam
+group_9711	NU	Piperacillin Tazobactam
+290_17_37	N/A	Piperacillin Tazobactam
+group_16273	EF	Piperacillin Tazobactam
+group_10100	EGP	Piperacillin Tazobactam
+group_3075	G	Piperacillin Tazobactam
+287_16_35	N/A	Piperacillin Tazobactam
+138_25_5	N/A	Sulfonamide
+yccS	S	Sulfonamide
+group_10154	I	Sulfonamide
+48_33_50	M	Sulfonamide
+160_2_250	N/A	Sulfonamide
+dppB	P	Sulfonamide
+114_1_136	N/A	Sulfonamide
+cheY	T	Sulfonamide
+195_703_0	N/A	Sulfonamide
+group_15049	S	Sulfonamide
+group_15623	T	Sulfonamide
+154_45_4	N/A	Sulfonamide
+47_6_86	N/A	Sulfonamide
+ydfH	G	Sulfonamide
+292_201_1	N/A	Sulfonamide
+275_13_23	N/A	Sulfonamide
+97_83_1	N/A	Sulfonamide
+group_6987	U	Sulfonamide
+group_10109	Q	Sulfonamide
+218_18_39	L	Sulfonamide
+group_13102	S	Sulfonamide
+group_13693	C	Sulfonamide
+group_20768	E	Sulfonamide
+275_13_23	N/A	Tigecycline
+238_8_105	S	Tigecycline
+group_14096	D	Tigecycline
+group_2696	EH	Tigecycline
+group_12358	V	Tigecycline
+group_8152	IQ	Tigecycline
+degS	T	Tigecycline
+group_11409	L	Tigecycline
+degS	T	Tigecycline
+degS	T	Tigecycline
+257_17_76	S	Tigecycline
+40_10_40	N/A	Tigecycline
+206_16_13	L	Tigecycline
+238_45_20	S	Tigecycline
+degS	T	Tigecycline
+40_65_20	P	Tigecycline
+299_16_36	M	Tigecycline
+group_6695	G	Tigecycline
+group_21483	E	Tigecycline
+group_16273	EF	Trimethoprim sulfamethoxazole
+group_18907	EGP	Trimethoprim sulfamethoxazole
+group_13895	-	Trimethoprim sulfamethoxazole
+133_3_131	EQ	Trimethoprim sulfamethoxazole
+23_166_5	L	Trimethoprim sulfamethoxazole
+292_7_8	S	Trimethoprim sulfamethoxazole
+238_6_91	J	Trimethoprim sulfamethoxazole
+287_3_143	E	Trimethoprim sulfamethoxazole
+292_17_62	NPTU	Trimethoprim sulfamethoxazole
+40_77_7	N/A	Trimethoprim sulfamethoxazole
+247_29_38	H	Trimethoprim sulfamethoxazole
+204_15_54	N/A	Trimethoprim sulfamethoxazole
+275_13_44	N/A	Trimethoprim sulfamethoxazole
+group_12401	S	Trimethoprim sulfamethoxazole
+61_89_0	D	Trimethoprim sulfamethoxazole
+138_25_5	N/A	Sulfonamide
+yccS	S	Sulfonamide
+group_10154	I	Sulfonamide
+48_33_50	M	Sulfonamide
+160_2_250	N/A	Sulfonamide
+dppB	P	Sulfonamide
+114_1_136	N/A	Sulfonamide
+cheY	T	Sulfonamide
+195_703_0	N/A	Sulfonamide
+group_15049	S	Sulfonamide
+group_15623	T	Sulfonamide
+154_45_4	N/A	Sulfonamide
+47_6_86	N/A	Sulfonamide
+ydfH	G	Sulfonamide
+292_201_1	N/A	Sulfonamide
+275_13_23	N/A	Sulfonamide
+97_83_1	N/A	Sulfonamide
+group_6987	U	Sulfonamide
+group_10109	Q	Sulfonamide
+218_18_39	L	Sulfonamide
+group_13102	S	Sulfonamide
+group_13693	C	Sulfonamide
+group_20768	E	Sulfonamide
+275_13_23	N/A	Tigecycline
+238_8_105	S	Tigecycline
+group_14096	D	Tigecycline
+group_2696	EH	Tigecycline
+group_12358	V	Tigecycline
+group_8152	IQ	Tigecycline
+degS	T	Tigecycline
+group_11409	L	Tigecycline
+degS	T	Tigecycline
+degS	T	Tigecycline
+257_17_76	S	Tigecycline
+40_10_40	N/A	Tigecycline
+206_16_13	L	Tigecycline
+238_45_20	S	Tigecycline
+degS	T	Tigecycline
+40_65_20	P	Tigecycline
+299_16_36	M	Tigecycline
+group_6695	G	Tigecycline
+group_21483	E	Tigecycline
+group_16273	EF	Trimethoprim sulfamethoxazole
+group_18907	EGP	Trimethoprim sulfamethoxazole
+group_13895	-	Trimethoprim sulfamethoxazole
+133_3_131	EQ	Trimethoprim sulfamethoxazole
+23_166_5	L	Trimethoprim sulfamethoxazole
+292_7_8	S	Trimethoprim sulfamethoxazole
+238_6_91	J	Trimethoprim sulfamethoxazole
+287_3_143	E	Trimethoprim sulfamethoxazole
+292_17_62	NPTU	Trimethoprim sulfamethoxazole
+40_77_7	N/A	Trimethoprim sulfamethoxazole
+247_29_38	H	Trimethoprim sulfamethoxazole
+204_15_54	N/A	Trimethoprim sulfamethoxazole
+275_13_44	N/A	Trimethoprim sulfamethoxazole
+group_12401	S	Trimethoprim sulfamethoxazole
+61_89_0	D	Trimethoprim sulfamethoxazole
