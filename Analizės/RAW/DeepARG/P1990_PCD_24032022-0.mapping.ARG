@@ -1,0 +1,9 @@
+#ARG	query-start	query-end	read_id	predicted_ARG-class	best-hit	probability	identity	alignment-length	alignment-bitscore	alignment-evalue	counts
+ROSA	20	402	DKGIBN_28205	fosmidomycin	YP_001477378|FEATURES|rosA|fosmidomycin|rosA	0.999274644275	68.9	383	510.4	4.9e-145	1
+ACRB	1	1059	DKGIBN_12430	multidrug	CP002695.1.gene992.p01|FEATURES|acrB|multidrug|acrB	0.99712940797	83.1	1060	1683.7	0.0e+00	1
+OPCM	15	500	DKGIBN_29735	multidrug	YP_622885|FEATURES|opcM|multidrug|opcM	0.999973145496	63.1	488	564.3	3.4e-161	1
+KDPE	4	223	DKGIBN_07055	aminoglycoside	NP_415222.1|FEATURES|kdpE|aminoglycoside|kdpE	0.988194435984	63.3	221	289.3	9.8e-79	1
+MEXA	11	375	DKGIBN_12425	multidrug	gi:896383631:ref:WP_049324879.1:|FEATURES|mexA|multidrug|mexA	0.999934637244	60.6	381	401.7	2.3e-112	1
+MEXE	4	378	DKGIBN_23715	multidrug	gi:782676469:ref:WP_045601841.1:|FEATURES|mexE|multidrug|mexE	0.999997623394	64.3	381	456.1	1.0e-128	1
+GOLS	1	127	DKGIBN_31370	multidrug	NP_459349.1|FEATURES|golS|multidrug|golS	0.997775615894	60.6	127	158.3	1.5e-39	1
+BPEF	1	1060	DKGIBN_23720	multidrug	YP_001025938|FEATURES|bpeF|multidrug|bpeF	0.999867082943	80.5	1060	1624.8	0.0e+00	1

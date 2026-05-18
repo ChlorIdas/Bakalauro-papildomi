@@ -1,0 +1,9 @@
+#ARG	query-start	query-end	read_id	predicted_ARG-class	best-hit	probability	identity	alignment-length	alignment-bitscore	alignment-evalue	counts
+ROSA	20	404	BMPCJG_02714	fosmidomycin	ZP_04631862|FEATURES|rosA|fosmidomycin|rosA	0.999274644275	67.5	385	506.9	5.4e-144	1
+KDPE	4	223	BMPCJG_02637	aminoglycoside	NP_415222.1|FEATURES|kdpE|aminoglycoside|kdpE	0.988194435984	62.4	221	289.7	7.5e-79	1
+MDSB	1	1044	BMPCJG_01799	multidrug	NP_459346.1|FEATURES|mdsB|multidrug|mdsB	0.999999866969	87.2	1044	1757.7	0.0e+00	1
+MEXG	1	132	BMPCJG_01142	multidrug	NP_252894.1|FEATURES|MexG|multidrug|MexG	0.993864883121	61.4	132	157.9	2.0e-39	1
+CATB10	1	206	BMPCJG_03120	phenicol	CAI47810.1|FEATURES|catB10|phenicol|catB10	0.999993379245	81.1	206	378.3	1.5e-105	1
+OMPR	3	243	BMPCJG_04737	multidrug	NC_008702.1.4607594.p01|FEATURES|ompR|multidrug|ompR	0.996531069875	67.8	242	323.2	6.5e-89	1
+ACRB	1	1059	BMPCJG_05081	multidrug	CP002695.1.gene992.p01|FEATURES|acrB|multidrug|acrB	0.996391296639	83.0	1060	1689.1	0.0e+00	1
+TETA	3	387	BMPCJG_02872	tetracycline	gi:1004699693:gb:AMP48941.1:|FEATURES|tetA|tetracycline|tetA	0.999998843406	61.3	385	433.0	9.5e-122	1

@@ -1,0 +1,8 @@
+#ARG	query-start	query-end	read_id	predicted_ARG-class	best-hit	probability	identity	alignment-length	alignment-bitscore	alignment-evalue	counts
+MEXE	4	378	CHNJGF_03875	multidrug	gi:782676469:ref:WP_045601841.1:|FEATURES|mexE|multidrug|mexE	0.999997331093	64.6	381	463.0	8.6e-131	1
+MEXD	1	1042	CHNJGF_14405	multidrug	gi:852273548:ref:WP_048328542.1:|FEATURES|mexD|multidrug|mexD	0.994005136824	67.3	1046	1326.2	0.0e+00	1
+OPCM	15	500	CHNJGF_03865	multidrug	YP_776581|FEATURES|opcM|multidrug|opcM	0.999973145496	63.3	488	570.9	3.6e-163	1
+ROSA	20	402	CHNJGF_07510	fosmidomycin	ZP_04621517|FEATURES|rosA|fosmidomycin|rosA	0.999274644275	68.1	383	505.8	1.2e-143	1
+KDPE	4	223	CHNJGF_18340	aminoglycoside	NP_415222.1|FEATURES|kdpE|aminoglycoside|kdpE	0.988194435984	63.8	221	290.8	3.4e-79	1
+BPEF	1	1060	CHNJGF_03870	multidrug	YP_001025938|FEATURES|bpeF|multidrug|bpeF	0.999993516574	80.5	1060	1621.7	0.0e+00	1
+ACRB	1	1059	CHNJGF_05695	multidrug	CP002695.1.gene992.p01|FEATURES|acrB|multidrug|acrB	0.995603470386	83.3	1060	1694.9	0.0e+00	1

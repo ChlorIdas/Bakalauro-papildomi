@@ -1,0 +1,10 @@
+#ARG	query-start	query-end	read_id	predicted_ARG-class	best-hit	probability	identity	alignment-length	alignment-bitscore	alignment-evalue	counts
+TETA	7	388	HPBBOB_19305	tetracycline	gi:971830223:ref:WP_058905222.1:|FEATURES|tetA|tetracycline|tetA	0.999999510683	74.6	382	552.4	1.1e-157	1
+MEXE	59	395	HPBBOB_00005	multidrug	YP_002100653|FEATURES|mexE|multidrug|mexE	0.999975315427	64.9	339	431.4	2.4e-121	1
+MEXE	11	380	HPBBOB_06380	multidrug	gi:696364907:ref:WP_032939988.1:|FEATURES|mexE|multidrug|mexE	0.999971826413	60.3	373	401.4	3.1e-112	1
+ACRB	1	1059	HPBBOB_06375	multidrug	CP002695.1.gene992.p01|FEATURES|acrB|multidrug|acrB	0.997924003914	83.8	1060	1702.6	0.0e+00	1
+BPEF	1	1060	HPBBOB_00010	multidrug	YP_001025938|FEATURES|bpeF|multidrug|bpeF	0.999992573292	80.3	1060	1623.6	0.0e+00	1
+CHLORAMPHENICOL_EXPORTER	1	389	HPBBOB_25820	phenicol	AM296481.1.gene2.p01|FEATURES|chloramphenicol_exporter|phenicol|chloramphenicol_exporter	0.999332950223	74.6	389	569.7	6.4e-163	1
+KDPE	4	223	HPBBOB_11095	aminoglycoside	NP_415222.1|FEATURES|kdpE|aminoglycoside|kdpE	0.988194435984	62.4	221	282.3	1.2e-76	1
+ROSA	5	402	HPBBOB_07985	fosmidomycin	ZP_04638972|FEATURES|rosA|fosmidomycin|rosA	0.999274644275	66.8	398	509.2	1.1e-144	1
+OPCM	15	500	HPBBOB_00015	multidrug	YP_622885|FEATURES|opcM|multidrug|opcM	0.999973145496	63.7	488	572.0	1.6e-163	1
