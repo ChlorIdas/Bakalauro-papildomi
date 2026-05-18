@@ -3,6 +3,7 @@
 Šitoje repozitorijoje yra pateikti bakalauro darbo papildoma medžiaga. Tam tikrus failus (vizualizacijos) galima žiūrėti tiesiogiai, kitus reikia atsisiųsti.
 
 # Sudėtis
+```text
 ├── Analizės - Analizės failai
 │   ├── COG - COG analizių ataskaitos
 │   ├── Genai - GWAS įrankių genų ataskaitos
@@ -11,3 +12,4 @@
 ├── Idas Jasaitis_COINS_oral.pdf
 ├── Idas Jasaitis_COINS_poster.pdf
 ├── Panaroo_failai.zip - Dalis Panaroo rezultatų
+```
